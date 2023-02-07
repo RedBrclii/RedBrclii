@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reda
-- 👀 I’m interested in game development 
+- 👀 I’m interested in game, web development 
 - 🌱 I’m currently a Computer Science student at UQU 
 
 - 📫 How to reach me:
